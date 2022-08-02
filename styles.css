@@ -415,7 +415,7 @@ h4 {
 
     /* home */
     .hm {
-        margin-left: 29%;
+        display: none;
 
     }
 
